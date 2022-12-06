@@ -5,9 +5,8 @@ I am a Front-End Web Developer. I am passionately curious about learning and wri
 
 Skills: HTML/ CSS/JavaScript/ES6/React/Bootstrap/Tailwind CSS/MongoDB/Node.js/ Firebase & Vercel(Hosting)/Express.js
 
--🔭 I’m currently working on a new project
--🌱 I’m currently learning React-Redux
--👯 I’m looking to collaborate on Betterment of the community
--😄 Pronouns: Chanchal
--⚡ Fun fact: I am still afraid of "Ghost" :)
+- 🔭 I’m currently working on a new project
+- 🌱 I’m currently learning React-Redux
+-  😄 Pronouns: Chanchal
+- ⚡ Fun fact: I am still afraid of "Ghost" :)
 
