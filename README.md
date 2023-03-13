@@ -1,7 +1,7 @@
 ![Front-End Developer](https://media-exp1.licdn.com/dms/image/D5616AQEWxL-1kHjQEA/profile-displaybackgroundimage-shrink_350_1400/0/1669298307463?e=1675900800&v=beta&t=DrtDoRZ_9LVLWmzIMPDDlB_FkbR7EV_UMCloPG83gP4)
 
 ### Hi there 👋, I'm Yeasin Arafat
-#### Front-End Developer
+#### MERN stack developer
 
 
 I am a MERN stack Web Developer. I am passionately curious about learning and writing code. I am a quick learner which is my strength. Besides, I am always curious to explore new technologies and can easily adapt to any new technologies. Gradually, I have been improving my interpersonal skills and my strategic thinking. Now I am searching for a remote job (full-time/intern) in a reputed company where I can apply my skill and collaborate on the company's success. And also gather knowledge from real-world projects.
