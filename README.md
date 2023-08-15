@@ -9,7 +9,7 @@ I am a MERN stack Web Developer. I am passionately curious about learning and wr
 Skills: HTML/ CSS/JavaScript/ES6/React/Bootstrap/Tailwind CSS/MongoDB/Node.js/ Firebase & Vercel(Hosting)/Express.js
 
 - 🔭 I’m currently working on a new project 
-- 🌱 I’m currently learning React-Redux 
+- 🌱 I’m currently learning Django 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: +8801303896556 (Whatsapp Number) 
 - 😄 Pronouns: Arafat 
