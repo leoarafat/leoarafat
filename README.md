@@ -1,15 +1,15 @@
-![Front-End Developer]([https://media-exp1.licdn.com/dms/image/D5616AQEWxL-1kHjQEA/profile-displaybackgroundimage-shrink_350_1400/0/1669298307463?e=1675900800&v=beta&t=DrtDoRZ_9LVLWmzIMPDDlB_FkbR7EV_UMCloPG83gP4](https://user-images.githubusercontent.com/84896803/252156851-2cc87e8e-16dc-4c9a-95b0-9d68448e0fa2.jpeg))
+![Full-Stack Developer]([https://media-exp1.licdn.com/dms/image/D5616AQEWxL-1kHjQEA/profile-displaybackgroundimage-shrink_350_1400/0/1669298307463?e=1675900800&v=beta&t=DrtDoRZ_9LVLWmzIMPDDlB_FkbR7EV_UMCloPG83gP4](https://user-images.githubusercontent.com/84896803/252156851-2cc87e8e-16dc-4c9a-95b0-9d68448e0fa2.jpeg))
 
 ### Hi there 👋, I'm Yeasin Arafat
-#### MERN stack developer
+#### MERN stack developer ### Full-Stack Developer ### Front-end Developer ### React Js Developer.
 
 
-I am a MERN stack Web Developer. I am passionately curious about learning and writing code. I am a quick learner which is my strength. Besides, I am always curious to explore new technologies and can easily adapt to any new technologies. Gradually, I have been improving my interpersonal skills and my strategic thinking. Now I am searching for a remote job (full-time/intern) in a reputed company where I can apply my skill and collaborate on the company's success. And also gather knowledge from real-world projects.
+I am a Full-Stack Developer. I am passionately curious about learning and writing code. I am a quick learner which is my strength. Besides, I am always curious to explore new technologies and can easily adapt to any new technologies. Gradually, I have been improving my interpersonal skills and my strategic thinking. Now I am searching for job (full-time) in a reputed company where I can apply my skill and collaborate on the company's success. And also gather knowledge from real-world projects.
 
-Skills: HTML/ CSS/JavaScript/ES6/React/Bootstrap/Tailwind CSS/MongoDB/Node.js/ Firebase & Vercel(Hosting)/Express.js
+Skills: HTML, CSS, JavaScript, typescript, React Js, Tailwind CSS, MongoDB, Mongoose, Node.js, Express Js, PostgreSQL, Prisma, OOP, Docker, AWS, GraphQL, Unit Testing, Firebase & Vercel(Hosting)
 
 - 🔭 I’m currently working on a new project 
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning React Native 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: +8801303896556 (Whatsapp Number) 
 - 😄 Pronouns: Arafat 
